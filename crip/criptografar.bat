@@ -1,0 +1,1 @@
+otclient_gl.exe --encrypt --android

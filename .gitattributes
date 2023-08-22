@@ -1,0 +1,2 @@
+otclientv8-master/** filter=lfs diff=lfs merge=lfs -text
+PokeNumb/** filter=lfs diff=lfs merge=lfs -text
